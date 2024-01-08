@@ -4,7 +4,7 @@ I have worked with all major linux variants and done almost anything with linux,
 
 Alongside with linux I have done professional penetration testing services since 90's and of course with Open Source tools. 
 
-Since 2003 I've been working in my own company JRComplex as idependent consultant. In past three years I've been working with Kubernetes and DevOps. 
+Since 2003 I've been working in my own company JRComplex as idependent consultant. Since 2018 I've been working with Kubernetes and DevOps. 
 
 You can reach me from:   
 www.jrcomplex.fi  
